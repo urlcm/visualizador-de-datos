@@ -6,11 +6,9 @@ Aplicación de escritorio para la gestión y seguimiento en tiempo real de la at
 
 ## 🚀 Tecnologías utilizadas
 
--C# 
--Entity Framework 5 
--SignalR (WebSockets) 
--SQL Server
-
+[![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/)
+[![WinForms](https://img.shields.io/badge/UI-WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ---
 
@@ -19,7 +17,7 @@ Aplicación de escritorio para la gestión y seguimiento en tiempo real de la at
 La aplicacion de atencion a medicos permite al personal del hospital registrar y dar seguimiento al flujo de atención de médicos. A través de una interfaz sencilla, el usuario puede:
 
 - Consultar el listado actualizado de médicos en atención
-- Conocer el estatus de cada atención (pendiente, en proceso, finalizada, etc.)
+- Conocer el estatus de cada atención.
 - Identificar la aseguradora y la responsabilidad asociada a cada médico
 - Exportar la información a Excel para reportes
 
