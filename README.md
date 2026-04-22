@@ -1,4 +1,6 @@
-# 🏥 Aplicacion de Atención a Médicos
+<div align="center">
+  
+## 🏥 Aplicacion de Atención a Médicos
 
 Aplicación de escritorio para la gestión y seguimiento en tiempo real de la atención a médicos del **Hospital Christus Muguerza**.
 
@@ -11,6 +13,7 @@ Aplicación de escritorio para la gestión y seguimiento en tiempo real de la at
 [![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ---
+</div>
 
 ## 📌 ¿Qué hace?
 
@@ -83,8 +86,6 @@ Si necesitas ajustar estos valores, contacta al equipo de desarrollo o al admini
 | Versión | Fecha | Cambios |
 |---|---|---|
 | v1.0.0 | — | Versión inicial |
-
-> _Actualiza esta sección con cada nueva versión que se libere._
 
 ---
 
