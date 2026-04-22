@@ -30,7 +30,7 @@ Los datos se actualizan automáticamente en tiempo real: cualquier cambio regist
 
 ## 📷 Capturas de pantalla
 
-
+<img width="1717" height="916" alt="Image" src="https://github.com/user-attachments/assets/3cb9dad8-3192-41c0-8c6d-2bfeb573ca5d" />
 
 ---
 
