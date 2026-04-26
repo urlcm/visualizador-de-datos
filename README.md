@@ -32,6 +32,11 @@ Los datos se actualizan automáticamente en tiempo real: cualquier cambio regist
 
 <img width="1717" height="916" alt="Image" src="https://github.com/user-attachments/assets/3cb9dad8-3192-41c0-8c6d-2bfeb573ca5d" />
 
+<br>
+
+https://github.com/user-attachments/assets/f55aeb73-a137-47dc-80b1-2b2871d4da72
+
+
 ---
 
 ## 📋​ Requisitos del sistema
